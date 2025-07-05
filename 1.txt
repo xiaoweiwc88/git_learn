@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 jimo qiukujimo add A
 hello world
+=======
+jimo qiukujimo
+hello world add B
+add
+>>>>>>> origin/feature/add_git_learning
